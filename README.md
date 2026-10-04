@@ -7,4 +7,4 @@ A full tank combat sandbox built from a custom Python terminal game engine.
 
 ![Secret Menu](https://github.com/ethanlabs101/TerminalTanks/blob/main/images/secret_menu.png)
 
-![Mothership]()
+![Mothership](https://github.com/ethanlabs101/TerminalTanks/blob/main/images/mothership.png)

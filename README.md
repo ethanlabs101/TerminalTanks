@@ -118,10 +118,6 @@ python3 -m unittest discover -s tests
 
 The tests use the standard library only, run headless and only touch temporary save files.
 
-## Credits
-
-Created by [ethanlabs101](https://github.com/ethanlabs101).
-
 ## License
 
 MIT. See [LICENSE](LICENSE).

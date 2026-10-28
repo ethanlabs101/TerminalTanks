@@ -1,4 +1,4 @@
-![](https://github.com/ethanlabs101/TerminalTanks/blob/main/Media/terminaltanks-trailer-github.mp4)
+https://github.com/user-attachments/assets/6732f859-686b-463b-8709-6a51de449eb8
 
 # Terminal Tanks
 

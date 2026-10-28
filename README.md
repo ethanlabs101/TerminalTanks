@@ -1,4 +1,4 @@
-![Trailer](https://github.com/ethanlabs101/TerminalTanks/blob/main/Media/terminaltanks-trailer-github.mp4)
+https://github.com/ethanlabs101/TerminalTanks/blob/main/Media/terminaltanks-trailer-github.mp4
 
 # Terminal Tanks
 

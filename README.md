@@ -1,3 +1,5 @@
+![Trailer](https://github.com/ethanlabs101/TerminalTanks/blob/main/Media/terminaltanks-trailer-github.mp4)
+
 # Terminal Tanks
 
 Turn-based tank artillery that runs in your terminal. Pick a tank and an ammo, read the wind, set your angle and power,

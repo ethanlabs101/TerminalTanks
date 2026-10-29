@@ -125,3 +125,5 @@ The website runs this same code in Pyodide. It imports `terminaltanks.py` (which
 `tests/test_game.py` (standard library `unittest`) imports every module, checks content integrity (unique keys, shop
 items and music that point at real content, paint sentinels), round-trips a save, walks the menus with random keys
 and plays an AI-vs-AI battle to its result, all headless and in temporary folders.
+
+[⇐ Back to main page](https://github.com/ethanlabs101/TerminalTanks)

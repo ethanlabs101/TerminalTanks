@@ -6,7 +6,7 @@
 Pure Python · zero dependencies · free and open source
 
 [![Play in your browser](https://img.shields.io/badge/▶_Play_in_your_browser-2ea44f?style=for-the-badge)](https://ethanlabs101.github.io/terminaltanks-site/play.html)
-[![Download](https://img.shields.io/badge/⬇_Download-0969da?style=for-the-badge)](https://github.com/ethanlabs101/TerminalTanks/releases/latest)
+[![Download](https://img.shields.io/badge/Download-0969da?style=for-the-badge)](https://github.com/ethanlabs101/TerminalTanks/releases/latest)
 [![Website](https://img.shields.io/badge/Website-8250df?style=for-the-badge)](https://ethanlabs101.github.io/terminaltanks-site/)
 
 [![Python 3.10+](https://img.shields.io/badge/python-3.10%2B-3776ab)](https://www.python.org/)

@@ -161,3 +161,7 @@ They use the standard library only, run headless and only touch temporary save f
 ## License
 
 MIT. See [LICENSE](LICENSE).
+
+   <p align="center">
+     <img src="Media/terminaltanks-footer.svg" alt="Terminal Tanks: see you on the battlefield" width="100%">
+   </p>

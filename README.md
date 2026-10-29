@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header Image](https://github.com/ethanlabs101/TerminalTanks/Media/terminaltanks-header.png)
+[![Header Image](https://github.com/ethanlabs101/TerminalTanks/Media/terminaltanks-header.png)]
 
 **A tactical artillery game that runs in your terminal.**<br>
 Pure Python · zero dependencies · free and open source

@@ -108,3 +108,5 @@ paint and MARTYR'S BLESSING, a shell that wins any duel it hits (Single Player, 
 - If you are dug into a crater, blast the rim away or lob over it.
 - The TUTORIAL (main menu) has four lessons on a practice range (aiming and power, wind, ammunition, terrain) and
   three challenges for when you want to test yourself.
+
+![⇐ Back to main page](https://github.com/ethanlabs101/TerminalTanks)

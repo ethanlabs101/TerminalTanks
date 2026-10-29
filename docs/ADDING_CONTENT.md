@@ -166,3 +166,5 @@ Animated paints live in `tanks/content/paints.py`.
 The 20 Tournament levels, the 50 missions and the ten Terminal Ticket bosses are part of the story and the progression
 rules (acts, gates, rewards), so their counts are checked when the game starts. Their numbers (bosses, health, prices,
 rewards) can be tuned freely in `tanks/content/tournament.py`, `missions.py`, `tickets.py`, `martyr.py` and `rewards.py`.
+
+[⇐ Back to main page](https://github.com/ethanlabs101/TerminalTanks)

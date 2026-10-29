@@ -1,5 +1,8 @@
 <div align="center">
-    <img src="Media/terminaltanks-header.png" alt="Terminal Tanks" width="100%">
+
+<p align="center">
+  <img src="Media/terminaltanks-header.png" alt="Terminal Tanks" width="620">
+</p>
 
 **A tactical artillery game that runs in your terminal.**<br>
 Pure Python · zero dependencies · free and open source

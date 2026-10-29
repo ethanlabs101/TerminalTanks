@@ -109,4 +109,4 @@ paint and MARTYR'S BLESSING, a shell that wins any duel it hits (Single Player, 
 - The TUTORIAL (main menu) has four lessons on a practice range (aiming and power, wind, ammunition, terrain) and
   three challenges for when you want to test yourself.
 
-![⇐ Back to main page](https://github.com/ethanlabs101/TerminalTanks)
+[⇐ Back to main page](https://github.com/ethanlabs101/TerminalTanks)

@@ -1,5 +1,10 @@
 # Changelog
 
+## 2.0.1 (2026-10-29)
+
+- **Links** screen: itch.io is live (ethanlabs101.itch.io/terminal-tanks) and the launch trailer is listed; the website and
+  itch.io come first. The panel is two rows taller so the bottom line no longer touches the list.
+
 ## 2.0.0 (2026-10-26)
 
 ### Balance

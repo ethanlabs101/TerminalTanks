@@ -122,6 +122,12 @@ next to your save (`audio/`); `TT_AUDIO_DIR` moves the cache and `TT_NOAUDIO=1` 
 - **[Terminal Tanks DS](https://github.com/ethanlabs101/TerminalTanks-DS)**: the Nintendo DS port
 - **[Website source](https://github.com/ethanlabs101/terminaltanks-site)**: the site, catalog and browser version
 
+## Help put Terminal Tanks on Steam
+
+Terminal Tanks is free and always will be. Putting it on Steam costs a one-time **$100** fee. If you enjoy the game, a
+tip of any size goes straight toward it: **[Cash App $CPMmoneyman](https://cash.app/$CPMmoneyman)**. The
+[website](https://ethanlabs101.github.io/terminaltanks-site/) shows how close the fund is.
+
 ## For developers
 
 <details>

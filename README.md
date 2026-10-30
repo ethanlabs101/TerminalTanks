@@ -122,6 +122,8 @@ next to your save (`audio/`); `TT_AUDIO_DIR` moves the cache and `TT_NOAUDIO=1` 
 - **[Terminal Tanks DS](https://github.com/ethanlabs101/TerminalTanks-DS)**: the Nintendo DS port
 - **[Website source](https://github.com/ethanlabs101/terminaltanks-site)**: the site, catalog and browser version
 
+<iframe frameborder="0" src="https://itch.io/embed/5261269?bg_color=aeaeae&amp;fg_color=000000&amp;link_color=496ce0&amp;border_color=000000" width="552" height="167"><a href="https://ethanlabs101.itch.io/terminal-tanks">Terminal Tanks by ethanlabs101</a></iframe>
+
 ## For developers
 
 <details>
